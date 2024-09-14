@@ -6,15 +6,14 @@ Este repositorio contiene una serie de ejercicios y algoritmos básicos, interme
 ## Índice
 
 ### Algoritmos Estructurados
-
-1. [Solicitar datos de una persona y mostrarlos](https://github.com/diegomaneyro/MisAlgoritmos/01_pedir_datos/)
-2. [Suma de tres números](./algoritmos-estructurados/suma-tres-numeros.md)
-3. [Operaciones con dos variables A y B](./algoritmos-estructurados/operaciones-ab.md)
-4. [Cálculo de (A+B) * (A-B)](./algoritmos-estructurados/calculo-ab.md)
-5. [Cálculo de la potencia de un número](./algoritmos-estructurados/calculo-potencia.md)
-6. [Doble, triple y mitad de tres números](./algoritmos-estructurados/doble-triple-mitad.md)
-7. [Cálculo de porcentajes sobre un importe](./algoritmos-estructurados/porcentajes-importe.md)
-8. [Conversión de pesos a dólares](./algoritmos-estructurados/conversion-pesos-dolares.md)
+1. [Solicitar datos de una persona y mostrarlos](./01_pedir_datos/)
+2. [Suma de tres números](./02_suma_tres_numeros/)
+3. [Operaciones con dos variables A y B](./03_operacion_variables/)
+4. [Cálculo de (A+B) * (A-B)](./04_calculo_a_y_b)
+5. [Cálculo de la potencia de un número](./05_potencia/)
+6. [Doble, triple y mitad de tres números](./06_doble_triple_mitad)
+7. [Cálculo de porcentajes sobre un importe](./07_porcentaje/)
+8. [Conversión de pesos a dólares](./08_)
 9. [Cálculo del área y volumen de un cilindro](./algoritmos-estructurados/area-volumen-cilindro.md)
 10. [Cálculo de la hipotenusa de un triángulo rectángulo](./algoritmos-estructurados/calculo-hipotenusa.md)
 11. [Conversión de temperatura a Kelvin y Fahrenheit](./algoritmos-estructurados/conversion-temperatura.md)
