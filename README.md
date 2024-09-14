@@ -9,7 +9,7 @@ Este repositorio contiene una serie de ejercicios y algoritmos básicos, interme
 1. [Solicitar datos de una persona y mostrarlos](./01_pedir_datos/)
 2. [Suma de tres números](./02_suma_tres_numeros/)
 3. [Operaciones con dos variables A y B](./03_operacion_variables/)
-4. [Cálculo de (A+B) * (A-B)](./04_calculo_a_y_b)
+4. [Cálculo de (A+B) * (A-B)](./04_calculo_de_a_y_b)
 5. [Cálculo de la potencia de un número](./05_potencia/)
 6. [Doble, triple y mitad de tres números](./06_doble_triple_mitad)
 7. [Cálculo de porcentajes sobre un importe](./07_porcentaje/)
