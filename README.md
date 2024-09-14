@@ -6,7 +6,6 @@ Este repositorio contiene una serie de ejercicios y algoritmos básicos, interme
 ## Índice
 
 ### Algoritmos Estructurados
-
 1. [Solicitar datos de una persona y mostrarlos](./01_pedir_datos/)
 2. [Suma de tres números](./02_suma_tres_numeros/)
 3. [Operaciones con dos variables A y B](./03_operacion_variables/)
