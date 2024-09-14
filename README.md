@@ -7,7 +7,7 @@ Este repositorio contiene una serie de ejercicios y algoritmos básicos, interme
 
 ### Algoritmos Estructurados
 
-1. [Solicitar datos de una persona y mostrarlos](./algoritmos-estructurados/solicitar-datos.md)
+1. [Solicitar datos de una persona y mostrarlos](https://github.com/diegomaneyro/MisAlgoritmos/01_pedir_datos/)
 2. [Suma de tres números](./algoritmos-estructurados/suma-tres-numeros.md)
 3. [Operaciones con dos variables A y B](./algoritmos-estructurados/operaciones-ab.md)
 4. [Cálculo de (A+B) * (A-B)](./algoritmos-estructurados/calculo-ab.md)
