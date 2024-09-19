@@ -14,13 +14,6 @@ Este repositorio contiene una serie de ejercicios y algoritmos básicos, interme
 6. [Doble, triple y mitad de tres números](./06_doble_triple_mitad)
 7. [Cálculo de porcentajes sobre un importe](./07_porcentaje/)
 8. [Conversión de pesos a dólares](./08_)
-9. [Cálculo del área y volumen de un cilindro](./algoritmos-estructurados/area-volumen-cilindro.md)
-10. [Cálculo de la hipotenusa de un triángulo rectángulo](./algoritmos-estructurados/calculo-hipotenusa.md)
-11. [Conversión de temperatura a Kelvin y Fahrenheit](./algoritmos-estructurados/conversion-temperatura.md)
-12. [Conversión de pies y metros a varias unidades](./algoritmos-estructurados/conversion-unidades.md)
-13. [Suma y promedio de tres temperaturas](./algoritmos-estructurados/suma-promedio-temperaturas.md)
-14. [Cálculo del importe de una venta en un supermercado](./algoritmos-estructurados/importe-venta.md)
-15. [Cálculo de descuentos, envío y seguro en la compra de 30 PCs](./algoritmos-estructurados/descuentos-envio-pc.md)
 
 ### Nuevos Algoritmos Estructurados
 
